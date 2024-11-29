@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Methmi
 - 👀 I’m interested in coding a lot.
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Java
 - 📫 How to reach me: methhpathirana@gmail.com
 
 <!---
