@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **methhpathirana@gmail.com**
+- 📫 How to reach me **meth.pathirana@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
